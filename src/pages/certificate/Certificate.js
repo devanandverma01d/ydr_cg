@@ -32,9 +32,9 @@ const Certificate = () => {
             <div className="certificate-content">
               <div className="about-certificate"></div>
               <p className="topic-title">
-              This is certify that <b>Mr.{name}</b> has participated in <b>{course}</b> scheduled at <b>{date}</b>, due to his<br />
-              dedication, hard work, and commitment to excellence in <b>{course}</b>, he has secured <b>{score}</b> in this<br /> Comptition.
-              We congratulate <b>{name}</b> on this significant accomplishment<br /> and wish them continued success in their future endeavors.
+              This is certify that <b>Mr.{name}</b> has participated in <b>{course}</b> scheduled at <b>{date}</b>, due to his
+              dedication, hard work, and commitment to excellence in <b>{course}</b>, he has secured <b>{score}</b> in thisComptition.
+              We congratulate <b>{name}</b> on this significant accomplishment and wish them continued success in their future endeavors.
               </p>
             </div>
             <br /><br /><br /><br />
